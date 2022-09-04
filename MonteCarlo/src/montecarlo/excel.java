@@ -1,6 +1,5 @@
 /*
 Bünyamin Göymen
-02180201041
 
 Kullanılan programlar:
 -Netbeans 8.2
